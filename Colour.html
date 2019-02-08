@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="UTF-8">
+	<script
+  src="https://code.jquery.com/jquery-3.3.1.js"
+  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+  crossorigin="anonymous"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/brain/0.6.3/brain.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css">
+	<title>Colour Learning</title>
+</head>
+<body>
+	<div class="container" id="container">
+		<div class="rgbValues">
+			rgb(
+			<input id="red" type="number" min="0" max="255" maxlength="3" onKeyPress="if(this.value.length == 3) return false" value=0  />
+			<input id="green" type="number" min="0" max="255" maxlength="3" onKeyPress="if(this.value.length == 3) return false" value=0 />
+			<input id="blue" type="number" min="0" max="255" maxlength="3" onKeyPress="if(this.value.length == 3) return false" value=0 />
+			)
+		</div>
+		<div class="colorPicker">
+			<label for="redSlider">R</label>
+			<input type="range" min="0" max="255" step="1" id="redSlider" value="0"/>
+			<label>G</label>
+			<input type="range" min="0" max="255" step="1" id="greenSlider" value="0">
+			<label>B</label>
+			<input type="range" min="0" max="255" step="1" id="blueSlider"value="0">
+		</div>
+	</div>
+
+	<script type="text/javascript" src="app.js"></script>
+</body>
+</html>
