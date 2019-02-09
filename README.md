@@ -16,4 +16,8 @@
 - HTML
 - CSS
 
+## Purpose
+- Tutorial for people to understand machine learning better
+- Learning to implement neural networks with JavaScript
+
 
