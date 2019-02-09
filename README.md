@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-🔴 🔵 A simple machine learning webpage that understands and changes the 🌈 according to the contrast. 🔷 🔶
+🔴 🔵 A simple machine learning webpage that understands and changes the text 🌈 according to the background contrast. 🔷 🔶
 
 >****[Visit the site here](https://xenodochial-cray-7d5c5c.netlify.com/)**
 
