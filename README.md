@@ -1,8 +1,8 @@
 # Colour-Learning
+🔷 A simple machine learning webpage that understands & changes the text 🌈 according to the background. 🔶
+
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-🔷 A simple machine learning webpage that understands & changes the text 🌈 according to the background. 🔶
 
 ****[Visit the site here](https://xenodochial-cray-7d5c5c.netlify.com/)**
 
