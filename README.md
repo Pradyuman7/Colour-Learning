@@ -1,5 +1,5 @@
 # Colour-Learning
-🔷 A simple machine learning webpage that understands & changes the text 🌈 according to the background. 🔶
+A simple machine learning (Neural network) webpage that understands & changes the text 🌈 according to the background. 
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
