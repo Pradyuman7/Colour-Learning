@@ -1,8 +1,9 @@
 # Colour-Learning
+
+[![ColourLearning](https://img.shields.io/badge/Pradyuman7-Colour_Learning-brightgreen.svg?style=plastic)](https://github.com/Pradyuman7/Colour-Learning)
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+
 A simple machine learning (Neural network) webpage that understands & changes the text 🌈 according to the background. 
-
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ****[Visit the site here](https://xenodochial-cray-7d5c5c.netlify.com/)**
 
