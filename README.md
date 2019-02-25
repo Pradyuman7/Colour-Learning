@@ -5,7 +5,7 @@
 
 A simple machine learning (Neural network) webpage that understands & changes the text 🌈 according to the background. 
 
-****[Visit the site here](https://xenodochial-cray-7d5c5c.netlify.com/)**
+**[Visit the site here](https://xenodochial-cray-7d5c5c.netlify.com/)**
 
 
 ## Information Post
