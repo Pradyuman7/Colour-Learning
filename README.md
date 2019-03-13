@@ -1,7 +1,7 @@
 # Colour-Learning
 
-[![ColourLearning](https://img.shields.io/badge/Pradyuman7-Colour_Learning-brightgreen.svg?style=flat)](https://github.com/Pradyuman7/Colour-Learning)
-[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/licenses/MIT)
+[![ColourLearning](https://img.shields.io/badge/Pradyuman7-Colour_Learning-purple.svg?style=flat)](https://github.com/Pradyuman7/Colour-Learning)
+[![License: MIT](https://img.shields.io/badge/License-MIT-seagreen.svg)](https://opensource.org/licenses/MIT)
 
 A simple machine learning (Neural network) webpage that understands & changes the text 🌈 according to the background. 
 
